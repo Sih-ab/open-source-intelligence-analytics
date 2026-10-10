@@ -25,3 +25,14 @@ This project analyzes news articles using GDELT GKG data.
 - Pandas
 - Matplotlib
 - NetworkX
+
+
+
+## Dataset
+
+- **Source:** GDELT 2.0 Global Knowledge Graph (GKG)
+- **Official Website:** https://www.gdeltproject.org/data.html#documentation
+- **File:** `20261010091500.gkg.csv`
+- **Articles analyzed:** 582
+
+The dataset is not included in this repository. Please download the relevant GKG file from the official GDELT data archive.
